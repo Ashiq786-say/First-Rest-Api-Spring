@@ -246,7 +246,7 @@ SELECT * FROM PRODUCTS;
 
 ![H2 Console](screenshots/h2-console.png)
 
-![H2 Console Product](screenshots/h2-console-PRODUCT.png)
+![H2 Console Product](screenshots/h2-console-product.png)
 
 ---
 
